@@ -148,7 +148,7 @@ li {
     display: flex;
     flex-direction: column;
     background-color: #724796;
-    }
+}
 
 .estilo-icon {
     font-size: 25px;
@@ -159,4 +159,9 @@ li {
         justify-content: flex-start;
         align-items: center;
         display: flex;
-    }
+}
+
+.links {
+    text-decoration: none;
+    color: #ffff;
+}
